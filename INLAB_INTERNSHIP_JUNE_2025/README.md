@@ -43,8 +43,6 @@ This project presents a hybrid **dynamic pricing engine** for Amazon sellers. Th
 - Google Trends + ARIMA Forecast Graph
 - Downloadable CSV report
 
----
-
 ## 🧠 Future Enhancements
 
 - Switch to LSTM/Transformer for seasonality
