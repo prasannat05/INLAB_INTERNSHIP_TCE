@@ -32,14 +32,8 @@ This project presents a hybrid **dynamic pricing engine** for Amazon sellers. Th
 
 ---
 
-## 📊 Evaluation Metrics
-
-| Model | RMSE | MAE | MAPE |
-|-------|------|-----|------|
-| ARIMA + XGBoost | ₹348.20 | ₹325.07 | 22.14% |
-| Prophet + LightGBM | ₹590.74 | ₹584.67 | 57.32% |
-| Bayesian Ridge | ₹487.12 | ₹344.80 | 38.73% |
-
+## 📌 Project 
+👉[Dynamic Price Prediction](https://github.com/prasannat05/Dynamic_Pricing_Engine)
 ---
 
 ## 📦 Output
