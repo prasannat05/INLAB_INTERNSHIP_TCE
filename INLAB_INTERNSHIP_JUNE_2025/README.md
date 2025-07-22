@@ -32,8 +32,8 @@ This project presents a hybrid **dynamic pricing engine** for Amazon sellers. Th
 
 ---
 
-## 📌 Project 
-👉[Dynamic Price Prediction](https://github.com/prasannat05/Dynamic_Pricing_Engine)
+## 📌 Project -> [Dynamic Price Prediction](https://github.com/prasannat05/Dynamic_Pricing_Engine)
+
 ---
 
 ## 📦 Output
