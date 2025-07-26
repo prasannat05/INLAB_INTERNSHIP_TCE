@@ -1,10 +1,10 @@
-# 🛒 Dynamic Price Prediction System
+# Dynamic Price Prediction System
 
 This project presents a hybrid **dynamic pricing engine** for Amazon sellers. The system generates optimal, competitive, and profit-aware product prices based on market trends, competitor data, and business constraints.
 
 ---
 
-## 📈 Features
+## Features
 
 - **Real-Time Scraping:** Uses BeautifulSoup to extract Amazon competitor prices, ratings, and reviews.
 - **Demand Forecasting:** Uses ARIMA on Google Trends data to estimate product popularity.
@@ -14,7 +14,7 @@ This project presents a hybrid **dynamic pricing engine** for Amazon sellers. Th
 
 ---
 
-## 🧪 Technologies Used
+## Technologies Used
 
 - Python, Flask
 - BeautifulSoup, PyTrends
@@ -24,7 +24,7 @@ This project presents a hybrid **dynamic pricing engine** for Amazon sellers. Th
 
 ---
 
-## 🗃️ Data Sources
+## Data Sources
 
 - **Amazon Product Pages**: Real-time scraped listings.
 - **Google Trends**: 90-day product search interest time series.
@@ -32,18 +32,18 @@ This project presents a hybrid **dynamic pricing engine** for Amazon sellers. Th
 
 ---
 
-## 📌 Project -> [Dynamic Price Prediction](https://github.com/prasannat05/Dynamic_Pricing_Engine)
+## Project -> [Dynamic Price Prediction](https://github.com/prasannat05/Dynamic_Pricing_Engine)
 
 ---
 
-## 📦 Output
+## Output
 
 - Base and Final Price with Adjustment Breakdown
 - Competitor Listings
 - Google Trends + ARIMA Forecast Graph
 - Downloadable CSV report
 
-## 🧠 Future Enhancements
+## Future Enhancements
 
 - Switch to LSTM/Transformer for seasonality
 - Integrate Flipkart/Snapdeal scraping
