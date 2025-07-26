@@ -1,10 +1,10 @@
-# 🩺 Breast Cancer Prediction Using Machine Learning
+# Breast Cancer Prediction Using Machine Learning
 
 This project aims to predict the presence of breast cancer using a variety of supervised ML algorithms, including hybrid model combinations. Built as part of an in-lab internship, the solution emphasizes accuracy, generalization, and interpretability.
 
 ---
 
-## 🧪 Dataset
+## Dataset
 
 - **Source**: UCI Machine Learning Repository
 - **Features**: Tumor-related metrics
@@ -12,7 +12,7 @@ This project aims to predict the presence of breast cancer using a variety of su
 
 ---
 
-## 🤖 Algorithms Used
+## Algorithms Used
 
 - Logistic Regression (LR)
 - Support Vector Machine (SVM)
@@ -25,7 +25,7 @@ This project aims to predict the presence of breast cancer using a variety of su
 
 ---
 
-## ⚙️ Methodology
+## Methodology
 
 - Evaluated using multiple splits: 70:30 and 80:20
 - Applied confusion matrix, ROC-AUC, F1 score, precision, recall
@@ -33,7 +33,7 @@ This project aims to predict the presence of breast cancer using a variety of su
 
 ---
 
-## 📈 Best Results
+## Best Results
 
 | Model | Accuracy | Precision | Recall | F1 Score |
 |-------|----------|-----------|--------|----------|
@@ -43,7 +43,7 @@ This project aims to predict the presence of breast cancer using a variety of su
 
 ---
 
-## 🔬 Tools and Libraries
+## Tools and Libraries
 
 - Python (Google Colab)
 - NumPy, Pandas, Matplotlib
@@ -51,7 +51,7 @@ This project aims to predict the presence of breast cancer using a variety of su
 
 ---
 
-## 🚀 Future Scope
+## Future Scope
 
 - Introduce Deep Learning / CNNs for image-based datasets
 - Integrate real-world hospital datasets
